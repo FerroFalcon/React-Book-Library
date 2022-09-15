@@ -7,7 +7,17 @@
     width: 100%;
     height: 100%;
     object-fit: cover;
-    /* border-radius: 5px; */
+    filter: grayscale(60%);
+    transition: 0.5s;
+    border-radius: 10px;
+}
+
+.card_image:hover {
+    cursor: pointer;
+    box-shadow: 5px 5px 5px rgb(128, 128, 128, 0.5);
+    filter: grayscale(0%);
+    translate: 0 -5px;
+    transition: 0.5s;
 }
 
 .title {

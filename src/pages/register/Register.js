@@ -1,6 +1,7 @@
 import React, { useState } from "react";
-import { Link } from "react-router-dom";
+import { useNavigate } from "react-router-dom";
 import "./Register.css";
+
 import { Books } from "../../components/booklist/BookList";
 
 function Register() {
@@ -9,6 +10,8 @@ function Register() {
   const [image, setImage] = useState("");
   const [description, setDescription] = useState("");
   const [submit, setSubmit] = useState([...Books]);
+
+  let navigate = useNavigate();
 
   const titleHandler = (e) => {
     e.preventDefault();
@@ -43,11 +46,12 @@ function Register() {
     setSubmit([...Books, ...finalSubmit]);
     Books.push(...finalSubmit);
     console.log(Books);
+
+    navigate("/");
   };
 
   return (
     <div>
-      <Link to="/">Home</Link>
       <form type="submit">
         <input
           type="text"
@@ -55,6 +59,7 @@ function Register() {
           value={title}
           onChange={titleHandler}
           placeholder="Title"
+          autoFocus
         />
         <input
           type="text"

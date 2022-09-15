@@ -3,6 +3,7 @@ import { useNavigate } from "react-router-dom";
 import "./Register.css";
 
 import { Books } from "../../components/booklist/BookList";
+import Navbar from "../../components/navbar/Navbar";
 
 function Register() {
   const [title, setTitle] = useState("");
@@ -52,6 +53,7 @@ function Register() {
 
   return (
     <div>
+      <Navbar />
       <form type="submit">
         <input
           type="text"

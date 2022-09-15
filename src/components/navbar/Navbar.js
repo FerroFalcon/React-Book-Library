@@ -6,9 +6,7 @@ function Navbar() {
   return (
     <nav>
       <div className="brand-logo">
-        <Link to="/">
-          <span>FerroFlicks</span>
-        </Link>
+        <Link to="/">FerroFlicks</Link>
       </div>
     </nav>
   );

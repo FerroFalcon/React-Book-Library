@@ -3,6 +3,7 @@ import { Link } from "react-router-dom";
 
 import Booklist from "../../components/booklist/BookList";
 import Navbar from "../../components/navbar/Navbar";
+import "./Home.css";
 
 function Home() {
   return (

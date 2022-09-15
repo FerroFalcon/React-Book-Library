@@ -3,9 +3,26 @@ nav {
     top: 0;
     left: 0;
     width: 100%;
-    height: 50px;
-    overflow: hidden;
-    background-color: #333;
+    /* height: 50px; */
+    /* overflow: hidden; */
+    background-color: #F4BFBF;
+    padding-bottom: 30px;
+    margin-bottom: -30px;
+}
+
+nav div {
+    position: absolute;
+    top: 0;
+    left: 0;
+    background-color: #8CC0DE;
+    /* width: 100%;
+    height: 100%; */
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 0 20px;
+    margin-left: 50px;
+    border-radius: 0 0 10px 10px;
 }
 
 nav a {
@@ -15,5 +32,5 @@ nav a {
     text-align: center;
     padding: 14px 16px;
     text-decoration: none;
-    font-size: 17px;
+    font-size: 24px;
 }

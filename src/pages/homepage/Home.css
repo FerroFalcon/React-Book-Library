@@ -1,3 +1,49 @@
 .main_wrapper {
     margin-top: 20px;
 }
+
+.add_button {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    background-color: #fff;
+    border-radius: 0 0 50% 50%;
+    box-shadow: 3px 3px 3px rgb(128, 128, 128, 0.5);
+    height: 3em;
+    width: 3em;
+    transition: 0.4s;
+}
+
+.add_button:hover {
+    background-color: #277BC0;
+    box-shadow: 3px 3px 3px rgb(243, 120, 120);
+    transition: 0.4s;
+    
+}
+
+.add_button > svg {
+    font-size: 1.4rem;
+}
+
+.brand_logo {
+    background-color: #277BC0;
+    padding: 5.5px 20px;
+    border-radius: 0 0 50% 50%;
+    box-shadow: 3px 3px 3px rgb(128, 128, 128, 0.5);
+}
+
+.logo_link {
+    font-family: 'Poppins', sans-serif;
+    text-decoration: none;
+    color: #fff;
+    font-size: 24px;
+    font-weight: 600;
+}
+
+.nav_wrapper {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    padding: 0 10vw;
+    background-color: #FFCB42;
+}

@@ -5,8 +5,6 @@ import "./App.css";
 import Home from "./pages/homepage/Home";
 import Register from "./pages/register/Register";
 
-// app me hi state patakna hai, usko register pe update karke
-
 function App() {
   return (
     <>

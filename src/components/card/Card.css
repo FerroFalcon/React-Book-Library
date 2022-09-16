@@ -8,7 +8,7 @@
     height: 100%;
     object-fit: cover;
     filter: grayscale(60%);
-    transition: 0.5s;
+    transition: 0.4s;
     border-radius: 10px;
 }
 
@@ -17,7 +17,7 @@
     box-shadow: 5px 5px 5px rgb(128, 128, 128, 0.5);
     filter: grayscale(0%);
     translate: 0 -5px;
-    transition: 0.5s;
+    transition: 0.4s;
 }
 
 .title {

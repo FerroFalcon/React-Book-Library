@@ -3,7 +3,6 @@ import "./Card.css";
 
 function Card({ id, title, author, image }) {
   return (
-    // Map karwana hai yaha pe
     <div className="card_wrapper">
       <div className="image_wrapper">
         <img className="card_image" src={image} alt="book cover" />

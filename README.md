@@ -1,70 +1,71 @@
-# Getting Started with Create React App
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
+# BookBytes
 
-## Available Scripts
+Book Bytes is an app for storing books with their relavant details into a library, and view it anytime.
+## About Me
+I'm Jaideep Ghungharwal aka ferrofalcon, a web development enthusiast and a passionate web designer.
+ - Currently I,m a learner at TimesPro's full stack web development programme.
+ - And a Graduate in Electronics and Telecommunication Engineering.
 
-In the project directory, you can run:
 
-### `yarn start`
+## Acknowledgements
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+ - An App based on React Library
+ - A HTML, CSS and JavaScript based website
+ - Interactive UI with active buttons and elements
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
-### `yarn test`
+## Video Documentation
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+ Checkout the [Loom Video](https://www.loom.com/share/f98a3e5cfa184bd08c4cb575357a1e08) to understand the working of the project
 
-### `yarn build`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
+## Screenshots
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+[App Home Screenshot]("https://i.postimg.cc/Bbf73T9x/Screenshot-2022-09-16-200604.jpg")
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
+[App Register Screenshot]("https://i.postimg.cc/MG4rPk93/Screenshot-2022-09-16-203454.jpg")
 
-### `yarn eject`
+[User Map Screenshot]("https://i.postimg.cc/B6K7RhyS/Screenshot-2022-09-16-212206.jpg")
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+## Running Tests
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+To run tests, run the following command
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+```bash
+  yarn start
+```
+```bash
+  npm start
+```
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+## Usage/Examples
 
-To learn React, check out the [React documentation](https://reactjs.org/).
+```javascript
+import Component from 'my-project'
 
-### Code Splitting
+function App() {
+  return <Component />
+}
+```
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+## Color Palette
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+| Color             | Hex                                                                |
+| ----------------- | ------------------------------------------------------------------ |
+| Logo Bg Color | ![#277BC0](https://via.placeholder.com/10/277BC0?text=+) #277BC0 |
+| Navbar Color | ![#FFCB42](https://via.placeholder.com/10/FFCB42?text=+) #FFCB42 |
+| Body Bg Color | ![#FFF4CF](https://via.placeholder.com/10/FFF4CFa?text=+) #FFF4CFa |
+| Hover Color | ![#F37878](https://via.placeholder.com/10/F37878?text=+) #F37878 |
 
-### Making a Progressive Web App
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+## 🔗 Links
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaideepghungharwal/)
 
-### Advanced Configuration
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+## Authors
 
-### Deployment
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `yarn build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+- Github [@ferrofalcon](https://www.github.com/FerroFalcon)

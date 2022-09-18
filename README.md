@@ -1,33 +1,31 @@
-
 # BookBytes
 
 Book Bytes is an app for storing books with their relavant details into a library, and view it anytime.
-## About Me
-I'm Jaideep Ghungharwal aka ferrofalcon, a web development enthusiast and a passionate web designer.
- - Currently I,m a learner at TimesPro's full stack web development programme.
- - And a Graduate in Electronics and Telecommunication Engineering.
 
+## About Me
+
+I'm Jaideep Ghungharwal aka ferrofalcon, a web development enthusiast and a passionate web designer.
+
+- Currently I,m a learner at TimesPro's full stack web development programme.
+- And a Graduate in Electronics and Telecommunication Engineering.
 
 ## Acknowledgements
 
- - An App based on React Library
- - A HTML, CSS and JavaScript based website
- - Interactive UI with active buttons and elements
-
+- An App based on React Library
+- A HTML, CSS and JavaScript based website
+- Interactive UI with active buttons and elements
 
 ## Video Documentation
 
- Checkout the [Loom Video](https://www.loom.com/share/f98a3e5cfa184bd08c4cb575357a1e08) to understand the working of the project
-
+Checkout the [Loom Video](https://www.loom.com/share/f98a3e5cfa184bd08c4cb575357a1e08) to understand the working of the project
 
 ## Screenshots
 
-[App Home Screenshot]("https://i.postimg.cc/Bbf73T9x/Screenshot-2022-09-16-200604.jpg")
+[App Home Screenshot]("./public/Screenshot 2022-09-16 200604.jpeg")
 
-[App Register Screenshot]("https://i.postimg.cc/MG4rPk93/Screenshot-2022-09-16-203454.jpg")
+[App Register Screenshot]("./public/Screenshot 2022-09-16 203454.jpeg")
 
-[User Map Screenshot]("https://i.postimg.cc/B6K7RhyS/Screenshot-2022-09-16-212206.jpg")
-
+[User Map Screenshot]("./public/Screenshot 2022-09-16 212206.jpeg")
 
 ## Running Tests
 
@@ -36,35 +34,33 @@ To run tests, run the following command
 ```bash
   yarn start
 ```
+
 ```bash
   npm start
 ```
 
-
 ## Usage/Examples
 
 ```javascript
-import Component from 'my-project'
+import Component from "my-project";
 
 function App() {
-  return <Component />
+  return <Component />;
 }
 ```
 
-
 ## Color Palette
 
-| Color             | Hex                                                                |
-| ----------------- | ------------------------------------------------------------------ |
-| Logo Bg Color | ![#277BC0](https://via.placeholder.com/10/277BC0?text=+) #277BC0 |
-| Navbar Color | ![#FFCB42](https://via.placeholder.com/10/FFCB42?text=+) #FFCB42 |
+| Color         | Hex                                                                |
+| ------------- | ------------------------------------------------------------------ |
+| Logo Bg Color | ![#277BC0](https://via.placeholder.com/10/277BC0?text=+) #277BC0   |
+| Navbar Color  | ![#FFCB42](https://via.placeholder.com/10/FFCB42?text=+) #FFCB42   |
 | Body Bg Color | ![#FFF4CF](https://via.placeholder.com/10/FFF4CFa?text=+) #FFF4CFa |
-| Hover Color | ![#F37878](https://via.placeholder.com/10/F37878?text=+) #F37878 |
-
+| Hover Color   | ![#F37878](https://via.placeholder.com/10/F37878?text=+) #F37878   |
 
 ## 🔗 Links
-[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaideepghungharwal/)
 
+[![linkedin](https://img.shields.io/badge/linkedin-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/jaideepghungharwal/)
 
 ## Authors
 

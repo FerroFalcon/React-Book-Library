@@ -21,11 +21,11 @@ Checkout the [Loom Video](https://www.loom.com/share/f98a3e5cfa184bd08c4cb575357
 
 ## Screenshots
 
-![App Home Screenshot]("https://user-images.githubusercontent.com/93059540/190887630-bd3a8ef2-736c-460b-a62f-44b65ef121e8.jpeg")
+![App Home Screenshot](https://user-images.githubusercontent.com/93059540/190887630-bd3a8ef2-736c-460b-a62f-44b65ef121e8.jpeg)
 
-![App Register Screenshot]("https://user-images.githubusercontent.com/93059540/190887632-8736758f-c6ac-4eab-879a-63658282c384.jpeg")
+![App Register Screenshot](https://user-images.githubusercontent.com/93059540/190887632-8736758f-c6ac-4eab-879a-63658282c384.jpeg)
 
-![User Map Screenshot]("https://user-images.githubusercontent.com/93059540/190887633-8edfde46-a9cb-4572-9db9-4e77881d439e.jpeg")
+![User Map Screenshot](https://user-images.githubusercontent.com/93059540/190887633-8edfde46-a9cb-4572-9db9-4e77881d439e.jpeg)
 
 ## Running Tests
 

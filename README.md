@@ -51,12 +51,12 @@ function App() {
 
 ## Color Palette
 
-| Color         | Hex                                                                |
-| ------------- | ------------------------------------------------------------------ |
-| Logo Bg Color | ![#277BC0](https://via.placeholder.com/10/277BC0?text=+) #277BC0   |
-| Navbar Color  | ![#FFCB42](https://via.placeholder.com/10/FFCB42?text=+) #FFCB42   |
-| Body Bg Color | ![#FFF4CF](https://via.placeholder.com/10/FFF4CFa?text=+) #FFF4CFa |
-| Hover Color   | ![#F37878](https://via.placeholder.com/10/F37878?text=+) #F37878   |
+| Color         | Hex                                                              |
+| ------------- | ---------------------------------------------------------------- |
+| Logo Bg Color | ![#277BC0](https://via.placeholder.com/10/277BC0?text=+) #277BC0 |
+| Navbar Color  | ![#FFCB42](https://via.placeholder.com/10/FFCB42?text=+) #FFCB42 |
+| Body Bg Color | ![#FFF4CF](https://via.placeholder.com/10/FFF4CF?text=+) #FFF4CF |
+| Hover Color   | ![#F37878](https://via.placeholder.com/10/F37878?text=+) #F37878 |
 
 ## 🔗 Links
 

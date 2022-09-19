@@ -17,7 +17,7 @@ I'm Jaideep Ghungharwal aka ferrofalcon, a web development enthusiast and a pass
 
 ## Video Documentation
 
-Checkout the [Loom Video](https://www.loom.com/share/f98a3e5cfa184bd08c4cb575357a1e08) to understand the working of the project
+Checkout the [detailed Video](https://vimeo.com/751290683/21620e0d85) to understand the working of the project
 
 ## Screenshots
 
